@@ -1,0 +1,19 @@
+body {
+                margin-top: 0px;
+                padding: 0px;       
+		background-color:  #E9DCC9;
+	}
+
+ h1 {
+                background-color: #2E8B57;
+                height: 38px;
+                length: 100px;
+                font-size: 30px;
+                margin-top: 0px;
+
+        }
+
+.bukhari {
+		cursor: pointer;
+
+} 
