@@ -7,11 +7,12 @@ body {
 .subch1b {
 		background-color: #59788E;
 		height: 25px;
+		margin-top: 0px;
 }
 
 .t1 {
-		margin-top: 4px;
 		cursor: pointer;
 		height: 28px;
 		background-color: #48AAAD;
+	
 }
