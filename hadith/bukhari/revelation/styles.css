@@ -1,14 +1,12 @@
 body {
                 margin-top: 0px;
-                padding: 0px;
                 background-color:  #E9DCC9;
      }
 
 .subch1b {
 		background-color: #59788E;
 		height: 28px;
-		margin-top: 1px;
-		padding: 1px;
+		margin-top: 3px;
 		border-radius: 7px;
 }
 
