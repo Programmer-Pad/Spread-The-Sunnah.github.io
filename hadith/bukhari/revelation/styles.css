@@ -8,11 +8,12 @@ body {
 		background-color: #59788E;
 		height: 25px;
 		margin-top: 0px;
+		padding: 0px;
 }
 
 .t1 {
 		cursor: pointer;
 		height: 28px;
 		background-color: #48AAAD;
-	
+		border-radius: 5px;	
 }
