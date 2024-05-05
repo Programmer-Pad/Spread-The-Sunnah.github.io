@@ -10,9 +10,8 @@ body {
 }
 
 .t1 {
-		marign-top: 5px;
+		margin-top: 4px;
 		cursor: pointer;
 		height: 28px;
-		length: 20px;
 		background-color: #48AAAD;
 }
