@@ -9,6 +9,19 @@ body {
 		margin-top: 3px;
 		border-radius: 7px;
 }
+.subch2b {
+		background-color: #59788E;
+                height: 28px;
+                margin-top: 3px;
+                border-radius: 7px;
+}
+
+.t2 {
+                cursor: pointer;
+                height: 28px;
+                background-color: #48AAAD;
+                border-radius: 7px;
+}
 
 .t1 {
 		cursor: pointer;
