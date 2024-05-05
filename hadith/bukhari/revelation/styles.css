@@ -6,12 +6,13 @@ body {
 
 .subch1b {
 		background-color: #59788E;
-		height: 30px;
+		height: 50px;
 }
 
 .t1 {
 		marign-top: 5px;
 		cursor: pointer;
 		height: 10px;
+		length: 15px;
 		background-color: #48AAAD;
 }
